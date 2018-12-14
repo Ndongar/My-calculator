@@ -6,3 +6,7 @@ Some of the main things:
 2. I used net beans in creating a calculator and the language is java.
 
 ##### Find some of the attached photos of what I started and what it ended up looking like.
+
+1. https://github.com/Ndongar/My-calculator/blob/master/BETTY.docx
+
+2. https://github.com/Ndongar/My-calculator/blob/master/Doc2.docx
