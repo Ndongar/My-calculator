@@ -7,6 +7,6 @@ Some of the main things:
 
 ##### Find some of the attached photos of what I started and what it ended up looking like.
 
-1. https://github.com/Ndongar/My-calculator/blob/master/BETTY.docx
+1. https://github.com/Ndongar/My-calculator/blob/master/M.jpeg
 
-2. https://github.com/Ndongar/My-calculator/blob/master/Doc2.docx
+2. https://github.com/Ndongar/My-calculator/blob/master/NET.jpeg
